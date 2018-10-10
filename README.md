@@ -1,7 +1,7 @@
 # das_pan
 As part of Engineering Physics 253, a course at the University of British Columbia, we entered the [**2016 Engineering Physics Uber-Bots Robot Competition**](http://projectlab.engphys.ubc.ca/enph-253-2016/competition-2016/).
 We came up with an innovative solution to allow a self-driving car to pick up and drop off passengers all over a miniature city.
-### For details on our solution, please visit our [website](https://rahatchd.github.io/das_pan).
+### For details on our solution, please visit our [website](https://andrewdworschak.github.io/das_pan).
 
 ### Code usage instructions
 > Upload `robot.ino` to the TINAH.
