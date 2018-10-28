@@ -1,15 +1,9 @@
-# 2016 Engineering Physics Uber-Bots Robot Competition
-### Team Andre You Have Nice Hair _Also have you been working out_
+# das_pan
+As part of Engineering Physics 253, a course at the University of British Columbia, we entered the [**2016 Engineering Physics Uber-Bots Robot Competition**](http://projectlab.engphys.ubc.ca/enph-253-2016/competition-2016/).
+We came up with an innovative solution to allow a self-driving car to pick up and drop off passengers all over a miniature city.
+### For details on our solution, please visit our [website](https://andrewdworschak.github.io/das_pan).
 
-![Ripped Andre](img/andre-arnold.png)
-
-
-ENPH 253 Summer 2016 Team 7  
-[Competition Page](http://projectlab.engphys.ubc.ca/enph-253-2016/competition-2016/)
-
-
-## das_pan
-
+### Code usage instructions
 > Upload `robot.ino` to the TINAH.
 > If you clone this repo and wish to compile using `arduino`'s IDE, you’ll need to change the `sketchbook location` to the path to the repo directory on your machine.
 
@@ -18,9 +12,7 @@ ENPH 253 Summer 2016 Team 7
 > To test the sensors and calibrate the actuators, run `test.ino`.
 > To test the path finding algorithm, run `nav.ino`.
 
-You can view the website locally by installing python and running the following command,
-```bash
-$ python -m SimpleHTTPServer 8000
-Serving HTTP on 0.0.0.0 port 8000 …
-```
-then visiting `localhost:8000` in your browser.
+### To view the website locally:
+> Install python on your machine and clone the repository.
+> Enter `$ python -m SimpleHTTPServer 8000` in the terminal.
+> Visit `localhost:8000` in your browser.
